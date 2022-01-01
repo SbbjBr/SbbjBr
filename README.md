@@ -1,0 +1,4 @@
+- 👋 Opa, eu sou Lucas
+- 👀 Sou interessado em Python, administração e automatização
+- 🌱 Atualmente estou estudando para melhorar minhas habilidades em programar
+- 💞️ Aqui colocarei repositórios que uso no dia a dia e poderá ajudar alguns de vocês
