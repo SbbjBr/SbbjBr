@@ -3,6 +3,9 @@
 ##### Atualmente estou estudando Data Science, Data Analysis e suas ferramentas.
 
 ![Lucas Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=SbbjBr&show_icons=true&theme=tokyonight)
+
+###### A maioria dos meus repositórios são privados, me desculpe  😔
+
 #
 ### Tecnologias que estou aprendendo e já tenho certo domínio
 
