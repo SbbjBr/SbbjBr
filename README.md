@@ -10,11 +10,11 @@
 
 
 #
-##### Estou me esforçando para colocar cada dia mais meus projetinhos aqui
+##### Estou me esforçando cada dia mais para colocar mais commits
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SbbjBr&theme=tokyonight" alt="mystreak"/>
 
 #
-### Tecnologias que estou aprendendo e já tenho certo domínio
+### Tecnologias que eu já tenho certo domínio
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
